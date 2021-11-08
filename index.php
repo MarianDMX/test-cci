@@ -1,3 +1,3 @@
-echo'<?php
-	include-once("homme.html");
+echo '<?php
+	include_once("index.html");
 	?>';
